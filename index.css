@@ -5,7 +5,7 @@
 
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #ff5667; /*#8b1425;  #3e4560*/
+  background-color: white; /*#ff5667; #8b1425;  #3e4560*/
   color: white;
 }
 
@@ -72,4 +72,12 @@ input[type="text"] {
 }
 .unselected {
   opacity: 0.25;
+}
+.main {
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  background: #ff5667;
+  box-shadow: 10px 7px 10px black;
 }
